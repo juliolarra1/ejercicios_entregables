@@ -64,6 +64,7 @@ let opcion = "";
 function numcol(numero, color) {
     opcion = (numero + color);
 }
+
 numcol(numero,color);
 switch (opcion) {
     case "1azul":
